@@ -1,6 +1,6 @@
-# OceanParcels Website
+# Virtualship Website
 
-Website for the Parcels project.
+Website for the Virtualship project.
 
 ## Overview
 
@@ -21,7 +21,7 @@ This project uses a combination of Javascript and Typescript (Javascript - as th
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/OceanParcels/oceanparcels_website
+git clone git@github.com:OceanParcels/virtualship_website.git
 ```
 
 ### 2. Install dependencies
