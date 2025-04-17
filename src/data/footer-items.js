@@ -1,13 +1,5 @@
 export const footerItems = {
   parcels: [
-    {
-      label: 'How to cite Parcels',
-      href: '/papers-citing-parcels',
-    },
-    {
-      label: 'Papers citing Parcels',
-      href: '/papers-citing-parcels#papers-citing-parcels',
-    },
     { label: 'Blog', href: '/blog' },
     {
       label: 'Brand Assets',
