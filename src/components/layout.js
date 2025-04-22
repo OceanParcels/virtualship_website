@@ -15,7 +15,7 @@ export const Layout = ({
   description,
   card,
   children,
-  url = 'https://oceanparcels.org',
+  url = 'https://oceanparcels.github.io/virtualship_website/',
   enableBanner = false,
 }) => {
   // Track page views
@@ -33,7 +33,7 @@ export const Layout = ({
   // Determine the base URL based on the environment
   const baseUrl =
     process.env.NODE_ENV === 'production'
-      ? 'https://oceanparcels.org'
+      ? 'https://oceanparcels.github.io/virtualship_website/'
       : 'http://localhost:3000'
 
   // Construct the full card URL
