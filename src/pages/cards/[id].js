@@ -33,8 +33,8 @@ const Card = ({ frontmatter, id }) => {
               w='150px'
               h='auto'
               objectFit='contain'
-              lightSrc='/parcels-assets/logo-no-text.svg'
-              darkSrc='/parcels-assets/logo-no-text-dia.svg'
+              lightSrc='/virtualship-assets/virtual_ship_logo_no-text.png'
+              darkSrc='/virtualship-assets/virtual_ship_logo_no-text.png'
               alt='Parcels logo'
             />
           </Flex>

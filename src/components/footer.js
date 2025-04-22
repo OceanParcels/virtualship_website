@@ -62,8 +62,8 @@ export const Footer = () => {
             <Box>
               <ColorModeImage
                 w={32}
-                lightSrc={'/parcels-assets/logo-horo.svg'} //TODO: Update to svg in roughly 1h*3w (internal) and 1h*2w external (as was before)
-                darkSrc={'/parcels-assets/logo-horo_dia.svg'} //TODO: Update to svg in roughly 1h*3w (internal) and 1h*2w external (as was before)
+                lightSrc={'/virtualship-assets/virtual_ship_logo.png'}
+                darkSrc={'/virtualship-assets/virtual_ship_logo_inverted.png'}
                 alt={'parcels logo'}
               />
             </Box>

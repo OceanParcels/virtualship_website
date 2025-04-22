@@ -31,25 +31,23 @@ export const HeroBanner = () => {
                   zIndex: -1,
                 }}
               >
-                Parcels
+                Virtual Ship
               </Text>
               <br />
               <Text as={'span'} color={'blue.400'}>
-                A highly customisable Lagrangian simulation framework
+                Explore the ocean with a virtual research vessel
               </Text>
             </Heading>
             <Text fontSize={'lg'}>
-              <strong>Parcels</strong> provides a set of Python classes and
-              methods to create customisable particle tracking simulations using
-              gridded output from (ocean) circulation models.
+              <strong>VirtualShipParcels</strong> provides a framework to plan and conduct a virtual research expedition, receiving measurements as if they were coming from actual oceanographic instruments.
             </Text>
           </Stack>
           <Stack flex={1} spacing={{ base: 10, md: 20 }}>
-            <Image
+            {/* <Image
               src={'/homepage-animation_SH.gif'}
               alt='Animation of virtual particles in the global oceans'
               objectFit='contain'
-            ></Image>
+            ></Image> */}  # TODO add animation
 
             <Stack
               spacing={{ base: 4, sm: 6 }}
@@ -61,7 +59,7 @@ export const HeroBanner = () => {
                 as={Link}
                 variant={'outline'}
                 colorScheme={'blue'}
-                href='https://docs.oceanparcels.org'
+                href='https://virtualship.oceanparcels.org'
               >
                 Get Started
               </Button>

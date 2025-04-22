@@ -3,7 +3,7 @@ export const footerItems = {
     { label: 'Blog', href: '/blog' },
     {
       label: 'Brand Assets',
-      href: 'https://github.com/OceanParcels/oceanparcels_website/tree/main/public/parcels-assets',
+      href: 'https://github.com/OceanParcels/oceanparcels_website/tree/main/public/virtualship-assets',
     },
     { label: 'Accessibility', href: '/accessibility' },
   ],
