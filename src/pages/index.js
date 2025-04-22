@@ -6,9 +6,9 @@ export default function IndexPage() {
   return (
     <Layout
       url={`/`}
-      title={'Parcels: A highly customisable Lagrangian simulation framework'}
+      title={'Virtual Ship: Explore the ocean with a virtual research vessel'}
       card={
-        'https://raw.githubusercontent.com/OceanParcels/oceanparcels_website/main/public/parcels-assets/logo-no-text.png'
+        'https://raw.githubusercontent.com/OceanParcels/oceanparcels_website/main/public/virtualship-assets/virtual_ship_logo_no-text.png'
       }
       enableBanner
     >

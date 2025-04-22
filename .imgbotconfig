@@ -1,4 +1,4 @@
 {
-  "ignoredFiles": ["public/parcels-assets/*", "public/cards/*"],
+  "ignoredFiles": ["public/virtualship-assets/*", "public/cards/*"],
   "schedule": "monthly"
 }
