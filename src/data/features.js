@@ -1,34 +1,34 @@
 export const Features = [
   {
-    title: 'Use data from any (curvilinear) grid',
-    text: 'Parcels works on model outputs including NEMO, POP, MITgcm, and more.',
+    title: 'Train students and researchers',
+    text: 'The Virtual Ship is a tool to train students and researchers in marine sciences for working at sea.',
   },
   {
-    title: 'Combine data on different grids',
-    text: 'Create a single Parcels FieldSet from multiple different model outputs.',
+    title: 'Plan and execute your own expedition',
+    text: 'The Virtual Ship allows you to plan your expedition, including the route, instruments and data collection.',
   },
   {
-    title: 'Define and execute custom kernels',
-    text: 'Encode custom particle operations such as swimming or sinking.',
+    title: 'Integrate with the Marine Facilities Planning Portal',
+    text: 'Plan your fieldwork at the marinefacilitiesplanning.com portal and use the downloaded route in the Virtual Ship.',
   },
   {
-    title: 'Advect particles in 2D and 3D',
-    text: 'Use built-in kernels for Runge-Kutta4 and Runge-Kutta45 schemes.',
+    title: 'Works with Copernicus Marine Service data',
+    text: 'The Virtual Ship uses the copernicusmarine tool to seamlessly download hydrodynamic and biogeochemical data.',
   },
   {
-    title: 'Diffuse particles in 2D',
-    text: 'Use built-in kernels for the Milstein and Euler-Maruyama schemes.',
+    title: 'Simulate CTD, ADCP, drifter and Argo data',
+    text: 'The Virtual Ship simulates data retrieval from CTD, ADCP, XBT, surface drifters and Argo float instruments.',
   },
   {
-    title: 'Start and stop particles during execution',
-    text: 'For example, to simulate oil spills or fish spawning.',
+    title: 'Experience life on board with VR',
+    text: 'The Virtual Ship includes 360 videos for VR headsets to experience life on board a research vessel.',
   },
   {
-    title: 'Simulate particle-particle interactions',
-    text: 'For example, to simulate aggregation or mortality.',
+    title: 'Use with OceanParcels',
+    text: 'The Virtual Ship is built on top of OceanParcels, a Python library for simulating particle trajectories.',
   },
   {
-    title: 'Output particle data in zarr format',
-    text: 'For highly efficient output of particle data.',
+    title: 'Open source and free to use',
+    text: 'The Virtual Ship is open source and free to use. You can find the code on GitHub.',
   },
 ]
