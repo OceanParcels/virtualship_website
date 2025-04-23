@@ -6,7 +6,7 @@ export default function IndexPage() {
   return (
     <Layout
       url={`/`}
-      title={'Virtual Ship: Explore the ocean with a virtual research vessel'}
+      title={'VirtualShip: Explore the ocean with a virtual research vessel'}
       card={
         'https://raw.githubusercontent.com/OceanParcels/oceanparcels_website/main/public/virtualship-assets/virtual_ship_logo_no-text.png'
       }
