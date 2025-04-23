@@ -15,7 +15,7 @@ export const Layout = ({
   description,
   card,
   children,
-  url = 'https://oceanparcels.org',
+  url = 'https://oceanparcels.org', // TODO: Update to the new domain
   enableBanner = false,
 }) => {
   // Track page views
@@ -33,7 +33,7 @@ export const Layout = ({
   // Determine the base URL based on the environment
   const baseUrl =
     process.env.NODE_ENV === 'production'
-      ? 'https://oceanparcels.org'
+      ? 'https://oceanparcels.org' // TODO: Update to the new domain
       : 'http://localhost:3000'
 
   // Construct the full card URL
