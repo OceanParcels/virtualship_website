@@ -14,7 +14,7 @@ export default function IndexPage() {
     >
       <HeroBanner />
       <Features />
-      <Projects />
+      {/* <Projects /> TODO uncomment when projects are ready */}
       <Funders />
     </Layout>
   )
