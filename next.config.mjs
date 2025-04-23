@@ -18,8 +18,7 @@ const nextConfig = {
   images: {
     domains: ["raw.githubusercontent.com", "numpy.org", "dask.org", "chainer.org"],
   },
-  output: 'export',
-  basePath: '/virtualship_website' // TODO: Remove once we have a domain
+  output: 'export'
 }
 
 export default withMDX(nextConfig)
