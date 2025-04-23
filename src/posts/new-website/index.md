@@ -1,16 +1,14 @@
 ---
-title: 'New Website for OceanParcels.org'
-date: '2025-03-31'
+title: 'New Website for Virtual Ship'
+date: '2025-04-23'
 authors:
-  - name: Nick Hodgskin
-    github: VeckoTheGecko
-summary: 'OceanParcels.org has a new website with a fresh look and feel!'
+  - name: Erik van Sebille
+    github: erikvansebille
+summary: 'The Virtual Ship has a new website with a fresh look and feel!'
 ---
 
-We are excited to announce the launch of the new website for OceanParcels.org!
+We are excited to announce the launch of the new front-facing website for the Virtual Ship project!
 
-The timing couldn't be better as we are actively developing version 4.0 of Parcels, which will bring significant improvements to the framework and tighter integration with the [Pangeo](https://pangeo.io/) ecosystem. The new website will help showcase these upcoming features and allow us to make announcements to the Parcels community.
+The new website is designed to be more user-friendly and visually appealing, with a focus on providing clear information and updates about the project and its goals.
 
-![Parcels logo](/posts/new-website/logo-horo.svg)
-
-The website design is based on the excellent [Xarray website](https://xarray.dev). Thank you to the Xarray team for their work here and their continued work on the Xarray project!
+The website design follows that of [oceanparcels.org](https://oceanparcels.org) and is based on the excellent [Xarray website](https://xarray.dev). Thank you to the Xarray team for their work here and their continued work on the Xarray project!
