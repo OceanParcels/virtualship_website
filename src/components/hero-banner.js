@@ -43,11 +43,11 @@ export const HeroBanner = () => {
             </Text>
           </Stack>
           <Stack flex={1} spacing={{ base: 10, md: 20 }}>
-            {/* <Image
-              src={'/homepage-animation_SH.gif'}
-              alt='Animation of virtual particles in the global oceans'
+            {<Image
+              src={'/homepage_image.png'}
+              alt='Rendering of the new Dutch Research Vessel Anna Weber-van Bosse on a sea of data'
               objectFit='contain'
-            ></Image> */}  # TODO add animation
+            ></Image>}
 
             <Stack
               spacing={{ base: 4, sm: 6 }}
@@ -59,7 +59,7 @@ export const HeroBanner = () => {
                 as={Link}
                 variant={'outline'}
                 colorScheme={'blue'}
-                href='https://virtualship.oceanparcels.org'
+                href='https://virtualship.oceanparcels.org'  // TODO fix link after deployment
               >
                 Get Started
               </Button>
