@@ -3,5 +3,5 @@ export const menuItems = [
   // { label: 'Projects', href: '/#projects' }, TODO uncomment when projects are ready
   { label: 'Funders', href: '/#funders' },
   { label: 'Blog', href: '/blog' },
-  { label: 'Documentation', href: 'https://docs.oceanparcels.org' },
+  { label: 'Documentation', href: 'https://virtualship.oceanparcels.org/en/latest/'}, // TODO: update to new domain after deployment
 ]
