@@ -39,15 +39,19 @@ export const HeroBanner = () => {
               </Text>
             </Heading>
             <Text fontSize={'lg'}>
-              <strong>VirtualShipParcels</strong> provides a framework to plan and conduct a virtual research expedition, receiving measurements as if they were coming from actual oceanographic instruments.
+              <strong>VirtualShipParcels</strong> provides a framework to plan
+              and conduct a virtual research expedition, receiving measurements
+              as if they were coming from actual oceanographic instruments.
             </Text>
           </Stack>
           <Stack flex={1} spacing={{ base: 10, md: 20 }}>
-            {<Image
-              src={'/homepage_image.png'}
-              alt='Rendering of the new Dutch Research Vessel Anna Weber-van Bosse on a sea of data'
-              objectFit='contain'
-            ></Image>}
+            {
+              <Image
+                src={'/homepage_image.png'}
+                alt='Rendering of the new Dutch Research Vessel Anna Weber-van Bosse on a sea of data'
+                objectFit='contain'
+              ></Image>
+            }
 
             <Stack
               spacing={{ base: 4, sm: 6 }}
@@ -59,7 +63,7 @@ export const HeroBanner = () => {
                 as={Link}
                 variant={'outline'}
                 colorScheme={'blue'}
-                href='https://virtualship.oceanparcels.org'  // TODO fix link after deployment
+                href='https://virtualship.oceanparcels.org' // TODO fix link after deployment
               >
                 Get Started
               </Button>
