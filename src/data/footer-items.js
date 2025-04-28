@@ -11,22 +11,22 @@ export const footerItems = {
   resources: [
     {
       label: 'Documentation',
-      href: 'https://virtualship.oceanparcels.org/en/latest/', // TODO: update to new domain after deployment
+      href: 'https://virtualship.readthedocs.io/en/latest/',
     },
     {
       label: 'Installation',
-      href: 'https://virtualship.oceanparcels.org/en/latest/#installation', // TODO: update to new domain after deployment
+      href: 'https://virtualship.readthedocs.io/en/latest#installation',
     },
     {
       label: 'User Guide',
-      href: 'https://virtualship.oceanparcels.org/en/latest/user-guide/index.html', // TODO: update to new domain after deployment
+      href: 'https://virtualship.readthedocs.io/en/latest/user-guide/index.html',
     },
   ],
 
   community: [
     {
       label: 'Contribute',
-      href: 'https://virtualship.oceanparcels.org/en/latest/contributing/index.html', // TODO: update to new domain after deployment
+      href: 'https://virtualship.readthedocs.io/en/latest/contributing/index.html',
     },
     {
       label: 'GitHub Discussions',

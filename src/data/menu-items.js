@@ -5,6 +5,6 @@ export const menuItems = [
   { label: 'Blog', href: '/blog' },
   {
     label: 'Documentation',
-    href: 'https://virtualship.oceanparcels.org/en/latest/',
-  }, // TODO: update to new domain after deployment
+    href: 'https://virtualship.readthedocs.io/en/latest/',
+  },
 ]
