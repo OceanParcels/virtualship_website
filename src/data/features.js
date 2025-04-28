@@ -16,19 +16,19 @@ export const Features = [
     text: 'The Virtual Ship uses the copernicusmarine tool to seamlessly download hydrodynamic and biogeochemical data.',
   },
   {
-    title: 'Simulate CTD, ADCP, drifter and Argo data',
-    text: 'The Virtual Ship simulates data retrieval from CTD, ADCP, XBT, surface drifters and Argo float instruments.',
+    title: 'Simulate oceanographic instruments',
+    text: 'VirtualShip simulates data retrieval from CTD, ADCP, XBT, surface drifters and Argo float instruments.',
   },
   {
     title: 'Experience life on board with VR',
     text: 'The Virtual Ship includes 360 videos for VR headsets to experience life on board a research vessel.',
   },
   {
-    title: 'Use with OceanParcels',
-    text: 'The Virtual Ship is built on top of OceanParcels, a Python library for simulating particle trajectories.',
+    title: 'Built on OceanParcels',
+    text: 'VirtualShip is built on top of OceanParcels, a Python library for simulating particle trajectories.',
   },
   {
-    title: 'Open source and free to use',
-    text: 'The Virtual Ship is open source and free to use. You can find the code on GitHub.',
+    title: 'Free to use and open source',
+    text: 'VirtualShip is free to use and open source. You can find the code on GitHub.',
   },
 ]
