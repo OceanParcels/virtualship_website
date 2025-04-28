@@ -1,19 +1,19 @@
 export const Features = [
   {
     title: 'Train students and researchers',
-    text: 'The Virtual Ship is a tool to train students and researchers in marine sciences for working at sea.',
+    text: 'VirtualShip is a tool to train students and researchers in marine sciences for working at sea.',
   },
   {
     title: 'Plan and execute your own expedition',
-    text: 'The Virtual Ship allows you to plan your expedition, including the route, instruments and data collection.',
+    text: 'VirtualShip allows you to plan your expedition, including the route, instruments and data collection.',
   },
   {
     title: 'Integrate with the Marine Facilities Planning Portal',
-    text: 'Plan your fieldwork at the marinefacilitiesplanning.com portal and use the downloaded route in the Virtual Ship.',
+    text: 'Plan your fieldwork at the marinefacilitiesplanning.com portal and use the downloaded route in VirtualShip.',
   },
   {
     title: 'Works with Copernicus Marine Service data',
-    text: 'The Virtual Ship uses the copernicusmarine tool to seamlessly download hydrodynamic and biogeochemical data.',
+    text: 'VirtualShip uses the copernicusmarine tool to seamlessly download hydrodynamic and biogeochemical data.',
   },
   {
     title: 'Simulate oceanographic instruments',
@@ -21,7 +21,7 @@ export const Features = [
   },
   {
     title: 'Experience life on board with VR',
-    text: 'The Virtual Ship includes 360 videos for VR headsets to experience life on board a research vessel.',
+    text: 'VirtualShip includes 360 videos for VR headsets to experience life on board a research vessel.',
   },
   {
     title: 'Built on OceanParcels',

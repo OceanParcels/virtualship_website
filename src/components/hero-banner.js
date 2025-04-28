@@ -31,7 +31,7 @@ export const HeroBanner = () => {
                   zIndex: -1,
                 }}
               >
-                Virtual Ship
+                VirtualShip
               </Text>
               <br />
               <Text as={'span'} color={'blue.400'}>
@@ -39,9 +39,9 @@ export const HeroBanner = () => {
               </Text>
             </Heading>
             <Text fontSize={'lg'}>
-              <strong>VirtualShipParcels</strong> provides a framework to plan
-              and conduct a virtual research expedition, receiving measurements
-              as if they were coming from actual oceanographic instruments.
+              <strong>VirtualShip</strong> provides a framework to plan and
+              conduct a virtual research expedition, receiving measurements as
+              if they were coming from actual oceanographic instruments.
             </Text>
           </Stack>
           <Stack flex={1} spacing={{ base: 10, md: 20 }}>

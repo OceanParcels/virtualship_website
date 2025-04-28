@@ -1,6 +1,6 @@
-# Virtualship Website
+# VirtualShip Website
 
-Website for the Virtualship project.
+Website for the VirtualShip project.
 
 ## Overview
 

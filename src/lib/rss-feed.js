@@ -17,7 +17,7 @@ const feed = new Feed({
     language: 'en',
     image: `${siteUrl}/virtualship-assets/virtual_ship_logo_no-text.png`,
     favicon: `${siteUrl}/favicon.ico`,
-    copyright: `© ${new Date().getFullYear()}, Virtual Ship developers. Apache 2.0 Licensed`,
+    copyright: `© ${new Date().getFullYear()}, VirtualShip developers. Apache 2.0 Licensed`,
     feedLinks: {
         rss2: `${siteUrl}/rss.xml`,
         json: `${siteUrl}/rss.json`,

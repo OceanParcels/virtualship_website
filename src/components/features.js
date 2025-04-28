@@ -22,8 +22,8 @@ export const Features = () => {
           Key Features & Capabilities
         </Heading>
         <Text fontSize={'lg'}>
-          The Virtual Ship can be used to simulate and teach the planning,
-          execution and analysis of ocean-based fieldwork
+          VirtualShip can be used to simulate and teach the planning, execution
+          and analysis of ocean-based fieldwork
         </Text>
 
         <SimpleGrid columns={{ base: 1, md: 2, lg: 4 }} spacing={8} my={8}>

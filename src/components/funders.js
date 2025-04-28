@@ -25,7 +25,7 @@ export const Funders = () => {
 
         <Box my={8}>
           <Text fontSize={'lg'}>
-            VirtualShipParcels development has been supported by the following
+            VirtualShip development has been supported by the following
             organisations:
           </Text>
 
