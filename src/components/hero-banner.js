@@ -63,7 +63,7 @@ export const HeroBanner = () => {
                 as={Link}
                 variant={'outline'}
                 colorScheme={'blue'}
-                href='https://virtualship.oceanparcels.org' // TODO fix link after deployment
+                href='https://virtualship.readthedocs.io/en/latest/'
               >
                 Get Started
               </Button>
