@@ -1,13 +1,13 @@
 ---
-title: 'New Website for Virtual Ship'
+title: 'New Website for VirtualShip'
 date: '2025-04-23'
 authors:
   - name: Erik van Sebille
     github: erikvansebille
-summary: 'The Virtual Ship has a new website with a fresh look and feel!'
+summary: 'VirtualShip has a new website with a fresh look and feel!'
 ---
 
-We are excited to announce the launch of the new front-facing website for the Virtual Ship project!
+We are excited to announce the launch of the new front-facing website for the VirtualShip project!
 
 The new website is designed to be more user-friendly and visually appealing, with a focus on providing clear information and updates about the project and its goals.
 

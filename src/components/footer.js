@@ -69,7 +69,7 @@ export const Footer = () => {
             </Box>
 
             <Text fontSize={'sm'}>
-              © {new Date().getFullYear()}, Virtual Ship developers. Apache 2.0
+              © {new Date().getFullYear()}, VirtualShip developers. Apache 2.0
               Licensed.
             </Text>
           </Stack>

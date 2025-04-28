@@ -79,7 +79,7 @@ export const Header = () => {
                 w={48}
                 lightSrc={'/virtualship-assets/virtual_ship_logo.png'}
                 darkSrc={'/virtualship-assets/virtual_ship_logo_inverted.png'}
-                alt={'virtualshipparcels logo'}
+                alt={'VirtualShip logo'}
               />
             </Stack>
           </Flex>
