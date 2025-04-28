@@ -94,7 +94,7 @@ export default function Blog({ allPostsData }) {
             fontSize={'lg'}
             textAlign={'center'}
           >
-            Announcements and news from the Parcels team.
+            Announcements and news from the VirtualShip team.
           </Text>
 
           <Divider my={4} borderColor='gray.200' />
