@@ -10,19 +10,19 @@ space_time_region:
     end_time: 2023-01-15 00:00:00
     start_time: 2023-01-01 00:00:00
 waypoints:
-- instrument:
-  - CTD_BGC
-  - CTD
-  - XBT
-  - ARGO_FLOAT
-  location:
-    latitude: 53.636306
-    longitude: -5.586463
-  time: 2023-01-01 00:00:00
-- instrument:
-  - CTD_BGC
-  - DRIFTER
-  location:
-    latitude: 59.690742
-    longitude: -1.928976
-  time: 2023-01-10 00:00:00
+  - instrument:
+      - CTD_BGC
+      - CTD
+      - XBT
+      - ARGO_FLOAT
+    location:
+      latitude: 53.636306
+      longitude: -5.586463
+    time: 2023-01-01 00:00:00
+  - instrument:
+      - CTD_BGC
+      - DRIFTER
+    location:
+      latitude: 59.690742
+      longitude: -1.928976
+    time: 2023-01-10 00:00:00
