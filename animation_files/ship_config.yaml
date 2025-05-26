@@ -1,3 +1,4 @@
+# generated from virtualship commit f279780
 ship_speed_knots: 10.0
 adcp_config:
   num_bins: 40
