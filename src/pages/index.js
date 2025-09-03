@@ -1,4 +1,5 @@
 import { Projects, Features, HeroBanner, Funders } from '@/components'
+import { VideoDemo } from '@/components/video-demo'
 
 import { Layout } from '@/components/layout'
 
@@ -14,6 +15,7 @@ export default function IndexPage() {
     >
       <HeroBanner />
       <Features />
+      <VideoDemo />
       {/* <Projects /> TODO uncomment when projects are ready */}
       <Funders />
     </Layout>
