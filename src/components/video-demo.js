@@ -19,7 +19,7 @@ export const VideoDemo = () => {
           <iframe
             width='100%'
             height='450'
-            src='https://www.youtube.com/embed/-ztHdnkvJzQ'
+            src='https://www.youtube.com/embed/ypafzoTBj_A?si=gjQBAxzfNzslN4B_'
             title='VirtualShip Classroom Demonstration'
             allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
             allowFullScreen
