@@ -7,7 +7,7 @@ export const VideoDemo = () => {
     <Box id={'video-demo'} as='section' my={12}>
       <Container maxW='container.lg' centerContent>
         <Heading as='h1' size='2xl' mb={4}>
-          Video Demonstration
+          Getting started with VirtualShip
         </Heading>
         <Box
           w='100%'
