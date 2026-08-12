@@ -1,5 +1,12 @@
 import { Layout } from '@/components/layout'
-import { Box, Container, Heading, Text, Accordion } from '@chakra-ui/react'
+import {
+  Box,
+  Container,
+  Heading,
+  Text,
+  Accordion,
+  Image,
+} from '@chakra-ui/react'
 import { VSPublications } from '@/data/publications'
 import { Paper } from '@/components/paper'
 
@@ -14,6 +21,15 @@ const vspublications = () => {
     >
       <Box as='section' py={20}>
         <Container maxW='container.lg'>
+          <Box mb={8}>
+            <Image
+              src='/photos/photoDocVSwebpage.png'
+              alt='360 photo of the deck of a Research Vessel'
+              w='100%'
+              h='auto'
+              borderRadius='md'
+            />
+          </Box>
           <Heading as='h1' size='2xl' textAlign={'center'}>
             VirtualShip publications
           </Heading>

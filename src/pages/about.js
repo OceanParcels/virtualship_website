@@ -13,6 +13,16 @@ const About = () => {
     >
       <Box as='section' py={20}>
         <Container maxW='container.lg'>
+          <Box mb={8}>
+            <Image
+              src='/photos/photoDocVSwebpage3.jpg'
+              alt='360 photo of the deck of a Research Vessel'
+              w='100%'
+              h='auto'
+              borderRadius='md'
+            />
+          </Box>
+
           <Heading as='h1' size='2xl' textAlign={'center'}>
             About the VirtualShip
           </Heading>
