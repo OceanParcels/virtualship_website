@@ -10,7 +10,7 @@ export const footerItems = {
 
   documentation: [
     {
-      label: 'Documentation',
+      label: 'Homepage',
       href: 'https://virtualship.readthedocs.io/en/latest/',
     },
     {
