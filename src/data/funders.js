@@ -14,4 +14,9 @@ export const Funders = [
     logo: '/funders-logos/NKOlogo-dark.png',
     url: 'https://www.nko.nl/en',
   },
+  {
+    name: 'Community for Open Science in Education',
+    logo: '/funders-logos/COSiE_logo.png',
+    url: 'https://openscience-utrecht.com/cosie/',
+  },
 ]
